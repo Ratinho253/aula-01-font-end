@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    height: 50vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 12px black;
+    justify-content: space-evenly;
+    padding: 12px;
+    margin: auto;
+    border-radius: 8%;
+}
+
+.sombra-verde{
+    box-shadow: 0px 0px 12px green;
+    
+}
+
+.sombra-vermelha{
+    box-shadow: 0px 0px 12px red;
+    
+}
+
+.sombra-laranja{
+    box-shadow: 0px 0px 12px orange;
+    
+}
